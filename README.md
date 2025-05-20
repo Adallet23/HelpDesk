@@ -83,5 +83,12 @@ Pour le .htpasswd il faut aller sur ce site :
 
 https://hostingcanada.org/htpasswd-generator/
 
-et coller le résultat dans le .htpasswd
+et coller le résultat dans le .htpasswd.
+
+### Démo du projet
+```html
+<video controls width="600">
+  <source src="/intro.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la vidéo.
+</video>
 
