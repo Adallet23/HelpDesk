@@ -46,7 +46,7 @@ Permettre à une équipe technique de gérer des tickets d'assistance depuis une
 
 ---
 
-## Installation 
+## Installation des dépendances
 
 sudo apt update
 apt install apache2 php php-mysqli php-pdo php-mbstring php-xml php-curl php-zip unzip
@@ -87,6 +87,7 @@ et coller le résultat dans le .htpasswd.
 
 ### Démo du projet
 
-[![Voir la vidéo](https://www.youtube.com/watch?v=VaKbCzmryW8 )
+[![Voir la vidéo](https://img.youtube.com/vi/bdYLbZCEBjw)](https://www.youtube.com/watch?v=bdYLbZCEBjw)
+
 
 
