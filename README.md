@@ -86,9 +86,7 @@ https://hostingcanada.org/htpasswd-generator/
 et coller le résultat dans le .htpasswd.
 
 ### Démo du projet
-```html
-<video controls width="600">
-  <source src="/intro.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la vidéo.
-</video>
+
+[![Voir la vidéo](https://www.youtube.com/watch?v=VaKbCzmryW8 )
+
 
