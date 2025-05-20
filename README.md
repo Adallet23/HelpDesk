@@ -87,7 +87,7 @@ et coller le résultat dans le .htpasswd.
 
 ### Démo du projet
 
-[![Voir la vidéo](https://img.youtube.com/vi/bdYLbZCEBjw)](https://www.youtube.com/watch?v=bdYLbZCEBjw)
+[![Voir la vidéo](https://img.youtube.com/vi/bdYLbZCEBjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=bdYLbZCEBjw)
 
 
 
